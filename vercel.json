@@ -4,7 +4,7 @@
       "NODE_VERSION": "18"
     },
     "command": "",
-    "outputDirectory": "build"
+    "outputDirectory": "dist"
   },
   "routes": [
     {
