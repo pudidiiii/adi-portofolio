@@ -3,7 +3,6 @@
     "env": {
       "NODE_VERSION": "18"
     },
-    "command": "",
     "outputDirectory": "dist"
   },
   "routes": [
