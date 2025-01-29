@@ -101,7 +101,7 @@ function a11yProps(index) {
 }
 
 const techStacks = [
-  { icon: "/dist/Ai.svg", language: "Adobe Illustrator" },
+  { icon: "/public/Ai.svg", language: "Adobe Illustrator" },
   { icon: "/dist/pr.svg", language: "Adobe Premier Pro" },
   { icon: "/dist/ae.svg", language: "Adobe After Effect" },
   { icon: "/dist/ps.svg", language: "Adobe Photoshop" },
