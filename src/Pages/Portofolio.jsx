@@ -102,11 +102,11 @@ function a11yProps(index) {
 
 const techStacks = [
   { icon: "/Ai1.svg", language: "Adobe Illustrator" },
-  { icon: "/dist/pr.svg", language: "Adobe Premier Pro" },
-  { icon: "/dist/ae.svg", language: "Adobe After Effect" },
-  { icon: "/dist/ps.svg", language: "Adobe Photoshop" },
-  { icon: "/dist/figma.svg", language: "Figma" },
-  { icon: "/dist/capcut.svg", language: "Capcut" },
+  { icon: "/pr.svg", language: "Adobe Premier Pro" },
+  { icon: "/ae.svg", language: "Adobe After Effect" },
+  { icon: "/ps.svg", language: "Adobe Photoshop" },
+  { icon: "/figma.svg", language: "Figma" },
+  { icon: "/capcut.svg", language: "Capcut" },
 ];
 
 export default function FullWidthTabs() {
