@@ -182,7 +182,7 @@ const Home = () => {
                 <div className={`relative z-10 w-full opacity-90 transform transition-transform duration-500 ${isHovering ? "scale-105" : "scale-100"}`}>
                   {/* Gambar lokal */}
                   <img
-                    src="/desgin visual 2 (1)"
+                    src="/desgin visual 2 (1).gif"
                     alt="Design Visual"
                     className={`w-full h-full object-cover transition-all duration-500 ${isHovering ? "scale-[180%] sm:scale-[160%] md:scale-[150%] lg:scale-[145%] rotate-2" : "scale-[175%] sm:scale-[155%] md:scale-[145%] lg:scale-[140%]"}`}
                   />
