@@ -1,14 +1,1 @@
-{
-  "build": {
-    "env": {
-      "NODE_VERSION": "18"
-    },
-    "outputDirectory": "dist"
-  },
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
-}
+
