@@ -4,12 +4,12 @@ import { getStorage } from "firebase/storage";
 import { collection, addDoc } from "@firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAUNZoh-CgN4Yfwn76TTEf6TLLm1845Zig",
-  authDomain: "portofolioadi-8f0be.firebaseapp.com",
-  projectId: "portofolioadi-8f0be",
-  storageBucket: "portofolioadi-8f0be.firebasestorage.app",
-  messagingSenderId: "79188580990",
-  appId: "1:79188580990:web:d55c15bbad1e7c4ca5962f",
+  apiKey: "AIzaSyAFC9hm_NyYRI8prAhSIkbRatUHC_EXUAA",
+  authDomain: "adi-portofolio.firebaseapp.com",
+  projectId: "adi-portofolio",
+  storageBucket: "adi-portofolio.firebasestorage.app",
+  messagingSenderId: "656958630305",
+  appId: "1:656958630305:web:f2ec9a3c4c963def5ec3e0",
 };
 
 // Initialize with a unique name
